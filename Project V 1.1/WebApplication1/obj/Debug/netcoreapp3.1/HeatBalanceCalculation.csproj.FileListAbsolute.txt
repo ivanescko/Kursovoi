@@ -1,0 +1,473 @@
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.exe
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.deps.json
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.runtimeconfig.json
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.runtimeconfig.dev.json
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.dll
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.pdb
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.dll
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.pdb
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\HeatBalanceCalculation.StaticWebAssets.Manifest.cache
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\HeatBalanceCalculation.StaticWebAssets.xml
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorAssemblyInfo.cache
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorAssemblyInfo.cs
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.AssemblyInfoInputs.cache
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.AssemblyInfo.cs
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.TagHelpers.input.cache
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.TagHelpers.output.cache
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorCoreGenerate.cache
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorTargetAssemblyInfo.cache
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorTargetAssemblyInfo.cs
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.pdb
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.dll
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.pdb
+C:\Users\ivanescko\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.csproj.CopyComplete
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.exe
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.deps.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.runtimeconfig.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.runtimeconfig.dev.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.csprojAssemblyReference.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\HeatBalanceCalculation.StaticWebAssets.Manifest.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\HeatBalanceCalculation.StaticWebAssets.xml
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorAssemblyInfo.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorAssemblyInfo.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.AssemblyInfoInputs.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.AssemblyInfo.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.TagHelpers.input.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.TagHelpers.output.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorCoreGenerate.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorTargetAssemblyInfo.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorTargetAssemblyInfo.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.csproj.CopyComplete
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.exe
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.deps.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.runtimeconfig.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.runtimeconfig.dev.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.csprojAssemblyReference.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\HeatBalanceCalculation.StaticWebAssets.Manifest.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\HeatBalanceCalculation.StaticWebAssets.xml
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorAssemblyInfo.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorAssemblyInfo.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.AssemblyInfoInputs.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.AssemblyInfo.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.TagHelpers.input.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.TagHelpers.output.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorCoreGenerate.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorTargetAssemblyInfo.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorTargetAssemblyInfo.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.csproj.CopyComplete
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\GrafHBC.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.exe
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.deps.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.runtimeconfig.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.runtimeconfig.dev.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.csprojAssemblyReference.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\HeatBalanceCalculation.StaticWebAssets.Manifest.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\HeatBalanceCalculation.StaticWebAssets.xml
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorAssemblyInfo.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorAssemblyInfo.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.AssemblyInfoInputs.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.AssemblyInfo.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.TagHelpers.input.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.TagHelpers.output.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorCoreGenerate.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\GrafHBC.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorTargetAssemblyInfo.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorTargetAssemblyInfo.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.csproj.CopyComplete
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.0\Project V 1.0\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.exe
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.deps.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.runtimeconfig.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.runtimeconfig.dev.json
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.csprojAssemblyReference.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\HeatBalanceCalculation.StaticWebAssets.Manifest.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\HeatBalanceCalculation.StaticWebAssets.xml
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorAssemblyInfo.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorAssemblyInfo.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.AssemblyInfoInputs.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.AssemblyInfo.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.TagHelpers.input.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.TagHelpers.output.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorCoreGenerate.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\GrafHBC.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorTargetAssemblyInfo.cache
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.RazorTargetAssemblyInfo.cs
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.Views.pdb
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.csproj.CopyComplete
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.dll
+C:\Users\ivanescko\Desktop\HeatBalanceCalculation\Project V 1.1\WebApplication1\obj\Debug\netcoreapp3.1\HeatBalanceCalculation.pdb

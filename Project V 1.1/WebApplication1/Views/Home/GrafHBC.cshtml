@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewData["Title"] = "График";
+}
+
+<div class="text-center">
+    <h3 class="display-4"><b>Диаграммы теплового баланса</b></h3>
+</div>
+   
+@* Метод, создающий круговые диаграммы *@
+<script src="https://www.google.com/jsapi"></script>
+<script>
+   google.load("visualization", "1", {packages:["corechart"]});
+   google.setOnLoadCallback(drawChart);
+   function drawChart() {
+    var data = google.visualization.arrayToDataTable([
+     ['Наименование', 'Значение'],
+     ['Количество тепла, получающегося при горении углерода кокса',     @ClassLibrary.GetQ_Cocs],
+     ['Приход тепла с нагретым дутьем',     @ClassLibrary.GetQ_N_D],
+     ['Количество тепла, выделяющегося при конверсии природного газа',    @ClassLibrary.GetQ_pg],
+     ['Количество тепла, выделяющегося при процессе шлакообразования',    @ClassLibrary.GetQ_G_i],
+     ['Физическое тепло шихты',    @ClassLibrary.GetQ_jrm],
+    ]);
+    var options = {
+     title: 'Диграмма статей прихода тепла',
+     is3D: true,
+     pieResidueSliceLabel: 'Остальное'
+    };
+    var chart = new google.visualization.PieChart(document.getElementById('air'));
+       chart.draw(data, options);
+   }
+</script>
+
+<script>
+   google.load("visualization", "1", {packages:["corechart"]});
+   google.setOnLoadCallback(drawChart);
+   function drawChart() {
+    var data = google.visualization.arrayToDataTable([
+     ['Наименованиме', 'Значение'],
+     ['Расход тепла на прямое восстановление оксидов железа',     @ClassLibrary.GetQ_pr],
+     ['Расход тепла на прямое восстановление примесей чугуна',     @ClassLibrary.GetQ_PR],
+     ['Затраты тепла на процесс десульфурации чугуна',    @ClassLibrary.GetQS],
+     ['Затраты тепла на компенсацию отр. тепл. эффекта восстанов. оксидов железа водородом',    @ClassLibrary.GetQ_v_H2],
+     ['Количество тепла, уносимого из печи жидким чугуном',    @ClassLibrary.GetQ_H],
+     ['Количество тепла, уносимого из печи жидким шлаком',   @ClassLibrary.GetQ_hl],
+     ['Расход тепла на разложение влаги дутья',   @ClassLibrary.GetQ_vl],
+     ['Расход тепла на разложение известняка',     @ClassLibrary.GetQ_I],
+     ['Расход тепла на испарение влаги шихты',     @ClassLibrary.GetQ_vp_H],
+     ['Количество тепла, уносимого из печи колошниковым газом',   @ClassLibrary.GetQ_KG],
+     ['Тепловые потери печи',    @ClassLibrary.GetQ_Poter]
+     ]);
+    var options = {
+     title: 'Диграмма статей расхода тепла',
+     is3D: true,
+     pieResidueSliceLabel: 'Остальное'
+    };
+    var chart = new google.visualization.PieChart(document.getElementById('vpn'));
+       chart.draw(data, options);
+   }
+</script>
+
+    <table>
+        <tr>
+            <td>
+                <div id="air" style="width: 750px; height: 750px;"></div>
+            </td>
+            <td>
+                <div id="vpn" style="width: 750px; height: 750px;"></div>
+            </td>
+        </tr>
+    </table>

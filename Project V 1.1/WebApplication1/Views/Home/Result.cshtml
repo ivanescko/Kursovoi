@@ -1,0 +1,125 @@
+﻿
+@{
+    ViewData["Title"] = "Result";
+}
+
+    <div class="text-center">
+        <h1 class="display-4"><b>Результат расчета</b></h1>
+        <form method="post" action="/Home/GrafHBC">
+            <table bgcolor="FFE57A" border="1" align="center">
+                <tr>
+                    <td bgcolor="#5FFDE8"><h4>Статься прихода тепла</h4></td>
+                    <td bgcolor="#5FFDE8"><nobr><h4>кДж/кг</h4></nobr></td>
+                    <td bgcolor="#5FFDE8"><h4>%</h4></td>
+                    <td bgcolor="#5FFDE8"><h4>Статься расхода тепла</h4></td>
+                    <td bgcolor="#5FFDE8"><nobr><h4>кДж/кг</h4></nobr></td>
+                    <td bgcolor="#5FFDE8"><h4>%</h4></td>
+                </tr>
+                <tr>
+                    <td>Количество тепла, получающегося при горении углерода кокса</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_Cocs </td>
+                    <td>@ClassLibrary.GetQ_Cocs_Pers</td>
+                    <td>Расход тепла на прямое восстановление оксидов железа</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_pr </td>
+                    <td>@ClassLibrary.GetQ_pr_Pers</td>
+                </tr>
+                <tr>
+                    <td>Приход тепла с нагретым дутьем</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_N_D </td>
+                    <td>@ClassLibrary.GetQ_N_D_Pers</td>
+                    <td>Расход тепла на прямое восстановление примесей чугуна</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_PR </td>
+                    <td>@ClassLibrary.GetQ_PR_Pers</td>
+                </tr>
+                <tr>
+                    <td>Количество тепла, выделяющегося при конверсии природного газа</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_pg </td>
+                    <td>@ClassLibrary.GetQ_pg_Pers</td>
+                    <td>Затраты тепла на процесс десульфурации чугуна</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQS </td>
+                    <td>@ClassLibrary.GetQS_Pers</td>
+                </tr>
+                <tr>
+                    <td>Количество тепла, выделяющегося при процессе шлакообразования</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_G_i </td>
+                    <td>@ClassLibrary.GetQ_G_i_Pers</td>
+                    <td>Затраты тепла на компенсацию отр. тепл. эффекта восстанов. оксидов железа водородом</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_v_H2 </td>
+                    <td>@ClassLibrary.GetQ_v_H2_Pers</td>
+                </tr>
+                <tr>
+                    <td>Физическое тепло шихты</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_jrm </td>
+                    <td>@ClassLibrary.GetQ_jrm_Pers</td>
+                    <td>Количество тепла, уносимого из печи жидким чугуном</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_H </td>
+                    <td>@ClassLibrary.GetQ_H_Pers</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>Количество тепла, уносимого из печи жидким шлаком</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_hl </td>
+                    <td>@ClassLibrary.GetQ_hl_Pers</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>Расход тепла на разложение влаги дутья</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_vl </td>
+                    <td>@ClassLibrary.GetQ_vl_Pers</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>Расход тепла на разложение известняка</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_I </td>
+                    <td>@ClassLibrary.GetQ_G_i_Pers</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>Расход тепла на испарение влаги шихты</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_vp_H </td>
+                    <td>@ClassLibrary.GetQ_vp_H_Pers</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>Количество тепла, уносимого из печи колошниковым газом</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_KG </td>
+                    <td>@ClassLibrary.GetQ_KG_Pers</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>Тепловые потери печи</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_Poter </td>
+                    <td>@ClassLibrary.GetQ_Poter_Pers</td>
+                </tr>
+                <tr>
+                    <td>Суммарный приход тепла</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_SumPrihod </td>
+                    <td>@ClassLibrary.GetQ_SumPrihod_Pers</td>
+                    <td>Суммарный расход тепла</td>
+                    <td bgcolor="FFDBF2">@ClassLibrary.GetQ_SumRachod </td>
+                    <td>@ClassLibrary.GetQ_SumRachod_Pers</td>
+                </tr>
+            </table>
+
+            <div style="text-align: right;
+            margin-left: 30%;
+            width: 40%;
+            padding:1%">
+
+                <button type="submit" class="btn btn-primary btn-lg btn-block" target="_blank">Построить диаграммы</button>
+
+            </div>
+        </form>
+    </div>
