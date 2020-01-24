@@ -214,7 +214,7 @@ namespace HeatBalanceCalculation.Models
         /// <summary>
         /// Расчетный удельный расход дутья
         /// </summary>
-        public double Qd = 1130.1;
+        public double Qd;
 
         /// <summary>
         /// теплоемкости газов и паров воды, кДж/(м3×К)
@@ -499,6 +499,7 @@ namespace HeatBalanceCalculation.Models
         public void CalculateForm()
         {
             Con_Fe = 100 - Con_Mn - Con_P - Con_Si - Con_Ti - Con_V;
+            Qd = Vd * CocsFurm;
 
             /// ФОРМУЛЫ ДЛЯ ПРИХОДНОЙ ЧАСТИ 
             GetQ_Cocs = Math.Round(CocsFurm * 9800 * Math.Pow(10, -3), 3);//
